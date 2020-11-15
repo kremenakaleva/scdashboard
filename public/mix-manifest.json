@@ -1,0 +1,11 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/semantic.min.css": "/css/semantic.min.css",
+    "/css/bootstrap.min.css": "/css/bootstrap.min.css",
+    "/js/semantic.min.js": "/js/semantic.min.js",
+    "/css/bootstrap-colorpicker.min.css": "/css/bootstrap-colorpicker.min.css",
+    "/js/bootstrap-colorpicker.min.js": "/js/bootstrap-colorpicker.min.js",
+    "/js/bootstrap.min.js": "/js/bootstrap.min.js",
+    "/js/popper.min.js": "/js/popper.min.js"
+}
